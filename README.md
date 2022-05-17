@@ -1,2 +1,2 @@
 # C-DEV-
-C ödevi Beyza Önal 21103630
+C ödevi Beyza Önal 2110213630
